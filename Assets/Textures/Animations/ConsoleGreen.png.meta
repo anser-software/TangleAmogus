@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: 8a30b46648008364ea12deb7fe1a5302
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4471685129405171195
+    second: ConsoleGreen_0
+  - first:
+      213: 264855074032169337
+    second: ConsoleGreen_1
+  - first:
+      213: 3536553922278062729
+    second: ConsoleGreen_2
+  - first:
+      213: 3868415865408194209
+    second: ConsoleGreen_3
+  - first:
+      213: -2401848812064123791
+    second: ConsoleGreen_4
+  - first:
+      213: 7575943743254551117
+    second: ConsoleGreen_5
+  - first:
+      213: -7058268690028059991
+    second: ConsoleGreen_6
+  - first:
+      213: 6559631952387768035
+    second: ConsoleGreen_7
+  - first:
+      213: 2612860406952552817
+    second: ConsoleGreen_8
+  - first:
+      213: -3664124804224922581
+    second: ConsoleGreen_9
+  - first:
+      213: 1066946142362102295
+    second: ConsoleGreen_10
+  - first:
+      213: -7100246478154912608
+    second: ConsoleGreen_11
+  - first:
+      213: -1158865218760757999
+    second: ConsoleGreen_12
+  - first:
+      213: 8553377380819977041
+    second: ConsoleGreen_13
+  - first:
+      213: 6782498083266625248
+    second: ConsoleGreen_14
+  - first:
+      213: 8298880833247394333
+    second: ConsoleGreen_15
+  - first:
+      213: -5391920695520732885
+    second: ConsoleGreen_16
+  - first:
+      213: 5352923808930605304
+    second: ConsoleGreen_17
+  - first:
+      213: -3384978695594843583
+    second: ConsoleGreen_18
+  - first:
+      213: -8347604445425824211
+    second: ConsoleGreen_19
+  - first:
+      213: 5702768992238239784
+    second: ConsoleGreen_20
+  - first:
+      213: -8610399228519822715
+    second: ConsoleGreen_21
+  - first:
+      213: -196193993508294329
+    second: ConsoleGreen_22
+  - first:
+      213: -2134626570274644066
+    second: ConsoleGreen_23
+  - first:
+      213: -2668642099925995869
+    second: ConsoleGreen_24
+  - first:
+      213: 620004438826033232
+    second: ConsoleGreen_25
+  - first:
+      213: -4401550379233524609
+    second: ConsoleGreen_26
+  - first:
+      213: -4532441649857019503
+    second: ConsoleGreen_27
+  - first:
+      213: 196297666186286159
+    second: ConsoleGreen_28
+  - first:
+      213: -268413619552846586
+    second: ConsoleGreen_29
+  - first:
+      213: 7624598730336006939
+    second: ConsoleGreen_30
+  - first:
+      213: -6085708300699402536
+    second: ConsoleGreen_31
+  - first:
+      213: 8989335161089712133
+    second: ConsoleGreen_32
+  - first:
+      213: 6113742528260494256
+    second: ConsoleGreen_33
+  - first:
+      213: -69710742841914013
+    second: ConsoleGreen_34
+  - first:
+      213: -895824635491218604
+    second: ConsoleGreen_35
+  - first:
+      213: -2438388731911137032
+    second: ConsoleGreen_36
+  - first:
+      213: -238893042324035910
+    second: ConsoleGreen_37
+  - first:
+      213: 4982846826736077442
+    second: ConsoleGreen_38
+  - first:
+      213: 7909687604667144435
+    second: ConsoleGreen_39
+  - first:
+      213: 1095400098397102032
+    second: ConsoleGreen_40
+  - first:
+      213: 3584530938932320575
+    second: ConsoleGreen_41
+  - first:
+      213: -6454711624666294884
+    second: ConsoleGreen_42
+  - first:
+      213: -6560331815361100698
+    second: ConsoleGreen_43
+  - first:
+      213: -8584539659620420241
+    second: ConsoleGreen_44
+  - first:
+      213: -6763918014698256405
+    second: ConsoleGreen_45
+  - first:
+      213: -9046065857805815597
+    second: ConsoleGreen_46
+  - first:
+      213: 3349051949862508163
+    second: ConsoleGreen_47
+  - first:
+      213: -1516005306942640879
+    second: ConsoleGreen_48
+  - first:
+      213: 2763085370885538226
+    second: ConsoleGreen_49
+  - first:
+      213: 3793960033020379978
+    second: ConsoleGreen_50
+  - first:
+      213: 907158916324921254
+    second: ConsoleGreen_51
+  - first:
+      213: 6655740689996115839
+    second: ConsoleGreen_52
+  - first:
+      213: -5627407430965320630
+    second: ConsoleGreen_53
+  - first:
+      213: -4861662069977028285
+    second: ConsoleGreen_54
+  - first:
+      213: 7058452823723931244
+    second: ConsoleGreen_55
+  - first:
+      213: -566844862469854839
+    second: ConsoleGreen_56
+  - first:
+      213: -2982931275936130941
+    second: ConsoleGreen_57
+  - first:
+      213: -5309403866563125947
+    second: ConsoleGreen_58
+  - first:
+      213: 5315327939694956834
+    second: ConsoleGreen_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ConsoleGreen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf58795eeed9e0e30800000000000000
+      internalID: 4471685129405171195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971b5ac5944fca300800000000000000
+      internalID: 264855074032169337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af56a0e0d541130800000000000000
+      internalID: 3536553922278062729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6042ddbbf5fa530800000000000000
+      internalID: 3868415865408194209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17459b02b3beaaed0800000000000000
+      internalID: -2401848812064123791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad70702b8232960800000000000000
+      internalID: 7575943743254551117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ad91d50efb0e90800000000000000
+      internalID: -7058268690028059991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeff5b918e780b50800000000000000
+      internalID: 6559631952387768035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179e61452beb24420800000000000000
+      internalID: 2612860406952552817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cc97767e9662dc0800000000000000
+      internalID: -3664124804224922581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a67f11ddd8ece00800000000000000
+      internalID: 1066946142362102295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 468
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acabd3627bd67d90800000000000000
+      internalID: -7100246478154912608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da5353932eaefe0800000000000000
+      internalID: -1158865218760757999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153c2adf863b3b670800000000000000
+      internalID: 8553377380819977041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeffde4216402e50800000000000000
+      internalID: 6782498083266625248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a3203062c8b2370800000000000000
+      internalID: 8298880833247394333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29d86ee1bc0c25b0800000000000000
+      internalID: -5391920695520732885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82a0dd7d7694a40800000000000000
+      internalID: 5352923808930605304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_18
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142edcc8fc32601d0800000000000000
+      internalID: -3384978695594843583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e0ce00cf9572c80800000000000000
+      internalID: -8347604445425824211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_20
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82009721f2e442f40800000000000000
+      internalID: 5702768992238239784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_21
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a47c18587b18880800000000000000
+      internalID: -8610399228519822715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_22
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7417fd53a9af64df0800000000000000
+      internalID: -196193993508294329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_23
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 351
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f5baea1784062e0800000000000000
+      internalID: -2134626570274644066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae2241362417fad0800000000000000
+      internalID: -2668642099925995869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050246f80c2ba9800800000000000000
+      internalID: 620004438826033232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ccc0204d8ae2c0800000000000000
+      internalID: -4401550379233524609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191461755588911c0800000000000000
+      internalID: -4532441649857019503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f449547ffa369b200800000000000000
+      internalID: 196297666186286159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dfca13c37664cf0800000000000000
+      internalID: -268413619552846586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_30
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13729cf52400d960800000000000000
+      internalID: 7624598730336006939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7a224b883b8ba0800000000000000
+      internalID: -6085708300699402536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5006ea393b880cc70800000000000000
+      internalID: 8989335161089712133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_33
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b35a2dff6068d450800000000000000
+      internalID: 6113742528260494256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_34
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d01efd276580ff0800000000000000
+      internalID: -69710742841914013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_35
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 234
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b80848d346193f0800000000000000
+      internalID: -895824635491218604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81f121e5a192ed0800000000000000
+      internalID: -2438388731911137032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6a6f03b084facf0800000000000000
+      internalID: -238893042324035910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a49c5e9c0a62540800000000000000
+      internalID: 4982846826736077442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_39
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8de7818fad4cd60800000000000000
+      internalID: 7909687604667144435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df13e7f594a33f00800000000000000
+      internalID: 1095400098397102032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_41
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f395575b5efceb130800000000000000
+      internalID: 3584530938932320575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_42
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c955e24d9f14c66a0800000000000000
+      internalID: -6454711624666294884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_43
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66445b8d8f405f4a0800000000000000
+      internalID: -6560331815361100698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_44
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65721499a69dd880800000000000000
+      internalID: -8584539659620420241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_45
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be78b04076cb122a0800000000000000
+      internalID: -6763918014698256405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f1bac70be57280800000000000000
+      internalID: -9046065857805815597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_47
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 117
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38652ed11093a7e20800000000000000
+      internalID: 3349051949862508163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da31a943116fae0800000000000000
+      internalID: -1516005306942640879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b106bf5183785620800000000000000
+      internalID: 2763085370885538226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43853c7c8ad6a430800000000000000
+      internalID: 3793960033020379978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af00626a30e69c00800000000000000
+      internalID: 907158916324921254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe458d4e0fd5c50800000000000000
+      internalID: 6655740689996115839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_53
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442beeb1ce67e1b0800000000000000
+      internalID: -5627407430965320630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_54
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34967050b18e78cb0800000000000000
+      internalID: -4861662069977028285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_55
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66fae52279a4f160800000000000000
+      internalID: 7058452823723931244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989aab1d9992228f0800000000000000
+      internalID: -566844862469854839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_57
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3889c6c0fcf7a96d0800000000000000
+      internalID: -2982931275936130941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_58
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d5b6450553156b0800000000000000
+      internalID: -5309403866563125947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConsoleGreen_59
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 53
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211a3e6996d3c940800000000000000
+      internalID: 5315327939694956834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5da10355015e7b4584f08c4f47cb068
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
