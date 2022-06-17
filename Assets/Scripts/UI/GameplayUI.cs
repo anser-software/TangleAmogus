@@ -7,38 +7,44 @@ public class GameplayUI : MonoBehaviour
 {
 
     [SerializeField]
-    private Text levelCounter, movesCounter, coinCounter;
+    private Text movesCounter, coinCounter;
 
     [SerializeField]
     private float delayAfterWin;
 
     [SerializeField]
-    private GameObject postGameUI;
-
-    private string movesCounterString;
+    private GameObject winWindow, loseWindow;
 
     private void Start()
     {
         GameplayManager.instance.OnWin += () => 
         {
-            DOTween.Sequence().SetDelay(delayAfterWin).OnComplete(() => ShowPostGameUI());
+            DOTween.Sequence().SetDelay(delayAfterWin).OnComplete(() => winWindow.SetActive(true));
         };
 
-        movesCounterString = movesCounter.text;
-
-        levelCounter.text = string.Format(levelCounter.text, (LevelManager.instance.currentLevelIndex + 1).ToString());
+        GameplayManager.instance.OnLose += () =>
+        {
+            DOTween.Sequence().SetDelay(delayAfterWin).OnComplete(() => loseWindow.SetActive(true));
+        };
 
         coinCounter.text = GameplayManager.instance.coins.ToString();
     }
 
     private void Update()
     {
-        movesCounter.text = string.Format(movesCounterString, GameplayManager.instance.movesLeft.ToString());
+        movesCounter.text = GameplayManager.instance.movesLeft.ToString();
     }
 
-    private void ShowPostGameUI()
+
+    public void ToMainMenu()
     {
-        postGameUI.SetActive(true);
+        LevelManager.instance.NextLevel();
     }
+
+    public void TryAgain()
+    {
+        LevelManager.instance.GoToLevel(LevelManager.instance.currentLevelIndex);
+    }
+
 
 }

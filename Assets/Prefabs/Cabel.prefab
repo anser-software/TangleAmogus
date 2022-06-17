@@ -179,6 +179,12 @@ MonoBehaviour:
   dragSpeed: 5
   snapToSocketSpeed: 3
   attachedRope: {fileID: 911353896810805246}
+  electricVFX: {fileID: 158660, guid: 6aac00dfa6dfea245a074659ab4ae710, type: 3}
+  meshRenderer: {fileID: 911353896810805241}
+  burnedCable: {fileID: 2100000, guid: c70269f3d3dd26a4ebbab500a02f7552, type: 2}
+  burnDelay: 1
+  glowDuration: 1
+  dissolveDuration: 0.5
 --- !u!1 &911353895550842526
 GameObject:
   m_ObjectHideFlags: 0
@@ -283,7 +289,7 @@ MeshRenderer:
   m_RenderingLayerMask: 4294967295
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: adad9901c234d5a48ba0878969f9a4ae, type: 2}
+  - {fileID: 2100000, guid: d18c3acd7884d3a4ba8368dd8b524a0a, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -338,7 +344,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Actor: {fileID: 911353896810805246}
   m_Target: {fileID: 911353895222903378}
-  m_ParticleGroup: {fileID: 3049608469799632583, guid: 54d0aa3a06e11d04c801cec0336db57a, type: 2}
+  m_ParticleGroup: {fileID: 0}
   m_AttachmentType: 0
   m_ConstrainOrientation: 0
   m_Compliance: 0
@@ -377,141 +383,171 @@ MonoBehaviour:
   m_CollisionMaterial: {fileID: 11400000, guid: d368f2c47473d4bfb8dd9f08073cb403, type: 2}
   m_SurfaceCollisions: 1
   m_SelfCollisions: 0
-  restLength_: 2.5926776
+  restLength_: 2.5886612
   elements:
   - particle1: 0
     particle2: 1
-    restLength: 0.09668409
+    restLength: 0.07822609
     constraintForce: 0
     tearResistance: 1
   - particle1: 1
     particle2: 2
-    restLength: 0.09729197
+    restLength: 0.077150255
     constraintForce: 0
     tearResistance: 1
   - particle1: 2
     particle2: 3
-    restLength: 0.0974491
+    restLength: 0.078023516
     constraintForce: 0
     tearResistance: 1
   - particle1: 3
     particle2: 4
-    restLength: 0.09745722
+    restLength: 0.07949187
     constraintForce: 0
     tearResistance: 1
   - particle1: 4
     particle2: 5
-    restLength: 0.09745042
+    restLength: 0.078136645
     constraintForce: 0
     tearResistance: 1
   - particle1: 5
     particle2: 6
-    restLength: 0.097474866
+    restLength: 0.07839721
     constraintForce: 0
     tearResistance: 1
   - particle1: 6
     particle2: 7
-    restLength: 0.09753407
+    restLength: 0.07915795
     constraintForce: 0
     tearResistance: 1
   - particle1: 7
     particle2: 8
-    restLength: 0.09761234
+    restLength: 0.07790544
     constraintForce: 0
     tearResistance: 1
   - particle1: 8
     particle2: 9
-    restLength: 0.09761206
+    restLength: 0.07925449
     constraintForce: 0
     tearResistance: 1
   - particle1: 9
     particle2: 10
-    restLength: 0.097169526
+    restLength: 0.07790709
     constraintForce: 0
     tearResistance: 1
   - particle1: 10
     particle2: 11
-    restLength: 0.09734324
+    restLength: 0.07903324
     constraintForce: 0
     tearResistance: 1
   - particle1: 11
     particle2: 12
-    restLength: 0.097485386
+    restLength: 0.07814369
     constraintForce: 0
     tearResistance: 1
   - particle1: 12
     particle2: 13
-    restLength: 0.09757846
+    restLength: 0.07876079
     constraintForce: 0
     tearResistance: 1
   - particle1: 13
     particle2: 14
-    restLength: 0.09739132
+    restLength: 0.07841298
     constraintForce: 0
     tearResistance: 1
   - particle1: 14
     particle2: 15
-    restLength: 0.09735244
+    restLength: 0.078556865
     constraintForce: 0
     tearResistance: 1
   - particle1: 15
     particle2: 16
-    restLength: 0.09746108
+    restLength: 0.07859081
     constraintForce: 0
     tearResistance: 1
   - particle1: 16
     particle2: 17
-    restLength: 0.09748961
+    restLength: 0.07846828
     constraintForce: 0
     tearResistance: 1
   - particle1: 17
     particle2: 18
-    restLength: 0.097397104
+    restLength: 0.07862733
     constraintForce: 0
     tearResistance: 1
   - particle1: 18
     particle2: 19
-    restLength: 0.097432375
+    restLength: 0.07850012
     constraintForce: 0
     tearResistance: 1
   - particle1: 19
     particle2: 20
-    restLength: 0.097443365
+    restLength: 0.0785396
     constraintForce: 0
     tearResistance: 1
   - particle1: 20
     particle2: 21
-    restLength: 0.09737911
+    restLength: 0.078616284
     constraintForce: 0
     tearResistance: 1
   - particle1: 21
     particle2: 22
-    restLength: 0.09746496
+    restLength: 0.07841414
     constraintForce: 0
     tearResistance: 1
   - particle1: 22
     particle2: 23
-    restLength: 0.097468235
+    restLength: 0.07872379
     constraintForce: 0
     tearResistance: 1
   - particle1: 23
     particle2: 24
-    restLength: 0.09739577
+    restLength: 0.07840935
     constraintForce: 0
     tearResistance: 1
   - particle1: 24
     particle2: 25
-    restLength: 0.097279646
+    restLength: 0.07861799
     constraintForce: 0
     tearResistance: 1
   - particle1: 25
     particle2: 26
-    restLength: 0.07913048
+    restLength: 0.07874468
     constraintForce: 0
     tearResistance: 1
   - particle1: 26
     particle2: 27
-    restLength: 0.07844983
+    restLength: 0.077847764
+    constraintForce: 0
+    tearResistance: 1
+  - particle1: 27
+    particle2: 28
+    restLength: 0.079587944
+    constraintForce: 0
+    tearResistance: 1
+  - particle1: 28
+    particle2: 29
+    restLength: 0.077819385
+    constraintForce: 0
+    tearResistance: 1
+  - particle1: 29
+    particle2: 30
+    restLength: 0.07798721
+    constraintForce: 0
+    tearResistance: 1
+  - particle1: 30
+    particle2: 31
+    restLength: 0.079422235
+    constraintForce: 0
+    tearResistance: 1
+  - particle1: 31
+    particle2: 32
+    restLength: 0.078156754
+    constraintForce: 0
+    tearResistance: 1
+  - particle1: 32
+    particle2: 33
+    restLength: 0.077029504
     constraintForce: 0
     tearResistance: 1
   m_RopeBlueprint: {fileID: 11400000, guid: 54d0aa3a06e11d04c801cec0336db57a, type: 2}
@@ -558,4 +594,4 @@ MonoBehaviour:
   uvScale: {x: 1, y: 6}
   normalizeV: 1
   section: {fileID: 11400000, guid: a0bc36a59515f413e90e10895929c938, type: 2}
-  thicknessScale: 0.8
+  thicknessScale: 1

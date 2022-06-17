@@ -25,12 +25,17 @@ public class GameplayManager : MonoBehaviour
 
     private void Start()
     {
-        movesLeft = LevelManager.instance.currentLevel.maxMoves;
+        Application.targetFrameRate = 60;
+        QualitySettings.vSyncCount = 0;
+
+        movesLeft = LevelManager.instance.currentLevel.maxMoves - LevelManager.instance.movesMadeThisLevel;
     }
 
     public void MakeMove()
     {
         movesLeft--;
+
+        LevelManager.instance.MakeMove();
 
         if (movesLeft == 0)
             Lose();
@@ -44,6 +49,8 @@ public class GameplayManager : MonoBehaviour
     public void Win()
     {
         Debug.Log("VICTORY");
+
+        LevelManager.instance.CompleteCurrentLevel();
 
         OnWin?.Invoke();
     }

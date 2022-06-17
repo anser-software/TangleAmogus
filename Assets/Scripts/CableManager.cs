@@ -8,7 +8,7 @@ public class CableManager : MonoBehaviour
     
     public static CableManager instance { get; private set; }
 
-    private Cable[] cables;
+    private List<Cable> cables;
 
     private void Awake()
     {
@@ -17,7 +17,33 @@ public class CableManager : MonoBehaviour
 
     private void Start()
     {
-        cables = FindObjectsOfType<Cable>();
+        cables = FindObjectsOfType<Cable>().ToList();
+    }
+
+    public bool IsCableUntangled(Cable cable)
+    {
+        if (cables == null)
+            return false;
+
+        if (cable.coverNumber != 0)
+            return false;
+
+        bool untangled = true;
+
+        foreach (var cableB in cables)
+        {
+            if (cable == cableB)
+                continue;
+
+            if (CablesIntersect(cable, cableB))
+            {
+                untangled = false;
+
+                break;
+            }
+        }
+
+        return untangled;
     }
 
     public void CheckVictory()
@@ -29,27 +55,32 @@ public class CableManager : MonoBehaviour
 
         foreach (var cable in cables)
         {
-            if(cable.coverNumber != 0)
+            if(cable.coverNumber == 0)
             {
-                allUntangled = false;
-                break;
-            } else
-            {
+                var cableUntangled = true;
+
                 foreach (var cableB in cables)
                 {
                     if (cable == cableB)
                         continue;
 
-                    if(CablesIntersect(cable, cableB))
+                    if (CablesIntersect(cable, cableB))
                     {
                         allUntangled = false;
+                        cableUntangled = false;
                         Debug.Log("CABLES INTERSECT");
+
                         break;
                     }
                 }
 
-                if (!allUntangled)
-                    break;
+                if (cableUntangled)
+                {
+                    cable.BurnCable();
+                }
+            } else
+            {
+                allUntangled = false;
             }
         }
 
@@ -57,6 +88,11 @@ public class CableManager : MonoBehaviour
         {
             GameplayManager.instance.Win();
         }
+    }
+
+    public void RemoveCableFromList(Cable cable)
+    {
+        cables.Remove(cable);
     }
 
     private bool CablesIntersect(Cable A, Cable B)

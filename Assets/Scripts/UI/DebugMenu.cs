@@ -21,6 +21,9 @@ public class DebugMenu : MonoBehaviour
 
         foreach (var cable in cables)
         {
+            if (cable == null)
+                continue;
+
             sortingDisplayString += string.Format("{0} covered by: {1}\n", cable.gameObject.name, cable.coverNumber);
         }
 

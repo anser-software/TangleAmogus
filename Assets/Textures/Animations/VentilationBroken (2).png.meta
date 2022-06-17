@@ -1,0 +1,1572 @@
+fileFormatVersion: 2
+guid: 98a283278d79da44e8ccbc3c7507efb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8459837436947112156
+    second: VentilationBroken (2)_0
+  - first:
+      213: -7492607834929966664
+    second: VentilationBroken (2)_1
+  - first:
+      213: 1717259196898510564
+    second: VentilationBroken (2)_2
+  - first:
+      213: -7934304626405448028
+    second: VentilationBroken (2)_3
+  - first:
+      213: -3104093534232638771
+    second: VentilationBroken (2)_4
+  - first:
+      213: 3318724832034090774
+    second: VentilationBroken (2)_5
+  - first:
+      213: -656304574504801372
+    second: VentilationBroken (2)_6
+  - first:
+      213: -5129635137492826417
+    second: VentilationBroken (2)_7
+  - first:
+      213: 4040529308882717784
+    second: VentilationBroken (2)_8
+  - first:
+      213: 3461445942043584005
+    second: VentilationBroken (2)_9
+  - first:
+      213: 3802264050766265184
+    second: VentilationBroken (2)_10
+  - first:
+      213: -2902055536902286447
+    second: VentilationBroken (2)_11
+  - first:
+      213: 2542506451090546091
+    second: VentilationBroken (2)_12
+  - first:
+      213: -2882797743522798085
+    second: VentilationBroken (2)_13
+  - first:
+      213: 7939215111375915140
+    second: VentilationBroken (2)_14
+  - first:
+      213: -1016328718076648966
+    second: VentilationBroken (2)_15
+  - first:
+      213: 4398457970138249908
+    second: VentilationBroken (2)_16
+  - first:
+      213: -8823479225046420428
+    second: VentilationBroken (2)_17
+  - first:
+      213: 5978014872711914366
+    second: VentilationBroken (2)_18
+  - first:
+      213: 8816404612526271935
+    second: VentilationBroken (2)_19
+  - first:
+      213: -5860193519697833102
+    second: VentilationBroken (2)_20
+  - first:
+      213: -2405604513931512700
+    second: VentilationBroken (2)_21
+  - first:
+      213: 3920799768485535633
+    second: VentilationBroken (2)_22
+  - first:
+      213: -4781458097684022779
+    second: VentilationBroken (2)_23
+  - first:
+      213: -61663869239940507
+    second: VentilationBroken (2)_24
+  - first:
+      213: 1593747108603385741
+    second: VentilationBroken (2)_25
+  - first:
+      213: 7710909583565138864
+    second: VentilationBroken (2)_26
+  - first:
+      213: -2436513497126055376
+    second: VentilationBroken (2)_27
+  - first:
+      213: -6679190686223926631
+    second: VentilationBroken (2)_28
+  - first:
+      213: 8629617391430828801
+    second: VentilationBroken (2)_29
+  - first:
+      213: -4779395450012186325
+    second: VentilationBroken (2)_30
+  - first:
+      213: -3199252627906726651
+    second: VentilationBroken (2)_31
+  - first:
+      213: -4449413316741715484
+    second: VentilationBroken (2)_32
+  - first:
+      213: -7190482802037183159
+    second: VentilationBroken (2)_33
+  - first:
+      213: -3979327065679530377
+    second: VentilationBroken (2)_34
+  - first:
+      213: 125954914860266224
+    second: VentilationBroken (2)_35
+  - first:
+      213: -9102764717900733324
+    second: VentilationBroken (2)_36
+  - first:
+      213: 6353213276471143566
+    second: VentilationBroken (2)_37
+  - first:
+      213: -4517185526717342155
+    second: VentilationBroken (2)_38
+  - first:
+      213: -3574177756477970280
+    second: VentilationBroken (2)_39
+  - first:
+      213: -1726563364011664427
+    second: VentilationBroken (2)_40
+  - first:
+      213: -8089618454746281166
+    second: VentilationBroken (2)_41
+  - first:
+      213: -548344957449207494
+    second: VentilationBroken (2)_42
+  - first:
+      213: 8058939711411254416
+    second: VentilationBroken (2)_43
+  - first:
+      213: -4358462615198600037
+    second: VentilationBroken (2)_44
+  - first:
+      213: -537237257066180020
+    second: VentilationBroken (2)_45
+  - first:
+      213: 8026454212180667416
+    second: VentilationBroken (2)_46
+  - first:
+      213: 2706688715960472622
+    second: VentilationBroken (2)_47
+  - first:
+      213: 2083399149604809732
+    second: VentilationBroken (2)_48
+  - first:
+      213: 228423375941122692
+    second: VentilationBroken (2)_49
+  - first:
+      213: -4927210722178617847
+    second: VentilationBroken (2)_50
+  - first:
+      213: -8699670087287422743
+    second: VentilationBroken (2)_51
+  - first:
+      213: -997763606066489194
+    second: VentilationBroken (2)_52
+  - first:
+      213: 7802681423348789050
+    second: VentilationBroken (2)_53
+  - first:
+      213: 1098222301622041797
+    second: VentilationBroken (2)_54
+  - first:
+      213: 9097378615010416696
+    second: VentilationBroken (2)_55
+  - first:
+      213: -1675617669584508237
+    second: VentilationBroken (2)_56
+  - first:
+      213: 7300730882403350654
+    second: VentilationBroken (2)_57
+  - first:
+      213: 6020530359712378497
+    second: VentilationBroken (2)_58
+  - first:
+      213: 1797492689029264820
+    second: VentilationBroken (2)_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VentilationBroken (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1435
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0a8c6a351676570800000000000000
+      internalID: 8459837436947112156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1435
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d0b52fd8e40890800000000000000
+      internalID: -7492607834929966664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1435
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e68862242ee4d710800000000000000
+      internalID: 1717259196898510564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1435
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a66d53eaffa3e190800000000000000
+      internalID: -7934304626405448028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1435
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca0a76706b0ce4d0800000000000000
+      internalID: -3104093534232638771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1435
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fe8a0c6aa7e0e20800000000000000
+      internalID: 3318724832034090774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1435
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab6d2c777654e6f0800000000000000
+      internalID: -656304574504801372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1435
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c06a3500efc8b0800000000000000
+      internalID: -5129635137492826417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c4280bff7d21830800000000000000
+      internalID: 4040529308882717784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1230
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506a9b8aeb6890030800000000000000
+      internalID: 3461445942043584005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1230
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b3928420b54c430800000000000000
+      internalID: 3802264050766265184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1230
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193db7c6dd3d9b7d0800000000000000
+      internalID: -2902055536902286447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_12
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1230
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad1460852cc84320800000000000000
+      internalID: 2542506451090546091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_13
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1230
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a60ad9be3ef7d0800000000000000
+      internalID: -2882797743522798085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_14
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1230
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48889fc7412cd2e60800000000000000
+      internalID: 7939215111375915140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_15
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1230
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af163086a6645e1f0800000000000000
+      internalID: -1016328718076648966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba739548367a0d30800000000000000
+      internalID: 4398457970138249908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1025
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434b114c464bc8580800000000000000
+      internalID: -8823479225046420428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1025
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73eef59adc26f250800000000000000
+      internalID: 5978014872711914366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1025
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd6eb5a8492a5a70800000000000000
+      internalID: 8816404612526271935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_20
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1025
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2735d5fda096caea0800000000000000
+      internalID: -5860193519697833102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_21
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1025
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4843905a0739d9ed0800000000000000
+      internalID: -2405604513931512700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_22
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1025
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f930cbd9a796630800000000000000
+      internalID: 3920799768485535633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_23
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1025
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af0238139d4adb0800000000000000
+      internalID: -4781458097684022779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a2a72a90de42ff0800000000000000
+      internalID: -61663869239940507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_25
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 820
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d875c1e1d802e1610800000000000000
+      internalID: 1593747108603385741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_26
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 820
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb2e8f7967a20b60800000000000000
+      internalID: 7710909583565138864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_27
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 820
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0325b5132e3cf2ed0800000000000000
+      internalID: -2436513497126055376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_28
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 820
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a7680757fbe43a0800000000000000
+      internalID: -6679190686223926631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_29
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 820
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10384cbbb4f82c770800000000000000
+      internalID: 8629617391430828801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_30
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 820
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29c7e8192d2cadb0800000000000000
+      internalID: -4779395450012186325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_31
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 820
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50572ee6fa8f993d0800000000000000
+      internalID: -3199252627906726651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9a7b499228042c0800000000000000
+      internalID: -4449413316741715484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 615
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94da4050df5463c90800000000000000
+      internalID: -7190482802037183159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_34
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 615
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776f21dfd1796c8c0800000000000000
+      internalID: -3979327065679530377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_35
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 615
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f5f5e35b7fb100800000000000000
+      internalID: 125954914860266224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_36
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 615
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4746193b7bb7ca180800000000000000
+      internalID: -9102764717900733324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_37
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 615
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cab5e60d52b2850800000000000000
+      internalID: 6353213276471143566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_38
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 615
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e1a7f42bbbf41c0800000000000000
+      internalID: -4517185526717342155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_39
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 615
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898270d6448f56ec0800000000000000
+      internalID: -3574177756477970280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db91e5a4c30a08e0800000000000000
+      internalID: -1726563364011664427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_41
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 410
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b476440e6ebbf80800000000000000
+      internalID: -8089618454746281166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 410
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a310ddc9a23e368f0800000000000000
+      internalID: -548344957449207494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_43
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 410
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f4fc28fa17df60800000000000000
+      internalID: 8058939711411254416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_44
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 410
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b947446f751a383c0800000000000000
+      internalID: -4358462615198600037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_45
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 410
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c421774af895b88f0800000000000000
+      internalID: -537237257066180020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_46
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 410
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c67fa7491b36f60800000000000000
+      internalID: 8026454212180667416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_47
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 410
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d168eb07109520800000000000000
+      internalID: 2706688715960472622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cab8dfc78b9ec10800000000000000
+      internalID: 2083399149604809732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_49
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 205
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48abd55a9d58b2300800000000000000
+      internalID: 228423375941122692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_50
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 205
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e2c0324f70f9bb0800000000000000
+      internalID: -4927210722178617847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_51
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 205
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e044200620944780800000000000000
+      internalID: -8699670087287422743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_52
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 205
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6981892694b3722f0800000000000000
+      internalID: -997763606066489194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_53
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 205
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f6e360a61b84c60800000000000000
+      internalID: 7802681423348789050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_54
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 205
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccf79c5d5bad3f00800000000000000
+      internalID: 1098222301622041797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_55
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 205
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8385eee76a1604e70800000000000000
+      internalID: 9097378615010416696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba2c097b920fb8e0800000000000000
+      internalID: -1675617669584508237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_57
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78306e7e08615560800000000000000
+      internalID: 7300730882403350654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_58
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e6c1ac6783d8350800000000000000
+      internalID: 6020530359712378497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VentilationBroken (2)_59
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 205
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b573ffb31af1f810800000000000000
+      internalID: 1797492689029264820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 72d5e46c99a7af94b8c53072541c1b0f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

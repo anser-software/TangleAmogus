@@ -30,6 +30,8 @@ public class SocketManager : MonoBehaviour
             return;
         }
 
+        Debug.Log("HERE IT IS");
+
         var direction = initialID < destinationID ? 1 : -1;
 
         var firstSocketIndex = direction > 0 ? initialID + 1 : destinationID + 1;

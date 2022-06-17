@@ -33,9 +33,29 @@ public class Cable : MonoBehaviour
     [SerializeField]
     private ObiRope attachedRope;
 
+    [SerializeField]
+    private GameObject electricVFX;
+
+    [SerializeField]
+    private MeshRenderer meshRenderer;
+
+    [SerializeField]
+    private Material burnedCable;
+
+    [SerializeField]
+    private float burnDelay, glowDuration, dissolveDuration;
+
     private PlugState PlugState = PlugState.WrongSocket;
 
     private Socket pluggedSocket = null;
+
+    private bool dissolving, glowing;
+
+    private Material burnedMatInstance, glowingMat;
+
+    private float dissolveProgess, glowProgress;
+
+    private Color glowingEmissionColor = new Color(0.7F, 0.4F, 0.14F, 1F);
 
     private void Start()
     {
@@ -55,7 +75,7 @@ public class Cable : MonoBehaviour
 
         if(!drag)
         {
-            plug.transform.DOMove(PlayerInput.instance.GetTouchWorldPos(), 1F / snapToSocketSpeed).SetEase(Ease.InOutSine);
+            plug.transform.DOMove(PlayerInput.instance.GetTouchWorldPos(), 1F / snapToSocketSpeed).SetEase(Ease.InOutSine).SetId(gameObject.name);
         }
 
         PlugState = PlugState.Dragging;
@@ -75,10 +95,38 @@ public class Cable : MonoBehaviour
         {
             plug.transform.position = Vector3.Lerp(plug.transform.position, PlayerInput.instance.GetTouchWorldPos(), Time.deltaTime * dragSpeed);
         }
+
+        if(glowing)
+        {
+            glowingMat.SetColor("_EmissionColor", Color.Lerp(Color.clear, glowingEmissionColor, glowProgress));
+            glowingMat.EnableKeyword("_EMISSION");
+
+            glowProgress += Time.deltaTime / glowDuration;
+        }
+        else if(dissolving)
+        {
+            burnedMatInstance.SetFloat("_Cutoff", dissolveProgess);
+
+            dissolveProgess += Time.deltaTime / dissolveDuration;
+
+            if(dissolveProgess > 1F)
+            {
+                dissolving = false;
+
+                CableManager.instance.RemoveCableFromList(this);
+
+                Destroy(gameObject);
+            }
+        }
     }
 
     private void PlugIntoSocket(Socket socket)
     {
+        if (glowing || dissolving)
+            return;
+
+        DOTween.Kill(gameObject.name);
+
         var prePlugPos = plug.transform.position;
 
         prePlugPos.x = socket.plugInPosition.x;
@@ -95,6 +143,8 @@ public class Cable : MonoBehaviour
         }
 
         plugSequence.Append(plug.transform.DOMove(socket.plugInPosition, snapDuration).SetEase(Ease.InOutSine));
+
+        plugSequence.SetId(gameObject.name);
 
         plugSequence.Play();
 
@@ -114,5 +164,44 @@ public class Cable : MonoBehaviour
         pluggedSocket = socket;
 
         CableManager.instance.CheckVictory();
+    }
+
+    public void BurnCable()
+    {
+        if (glowing || dissolving)
+            return;
+
+        var vfx = Instantiate(electricVFX);
+
+        vfx.transform.position = rootPosition;
+
+        vfx.transform.LookAt(socketPosition);
+
+        pluggedSocket.Disconnect();
+
+        glowingMat = Instantiate(meshRenderer.sharedMaterial);
+
+        meshRenderer.sharedMaterial = glowingMat;
+
+        glowing = true;
+
+        DOTween.Sequence().SetDelay(burnDelay).OnComplete(() =>
+        {
+            burnedMatInstance = Instantiate(burnedCable);
+
+            meshRenderer.sharedMaterial = burnedMatInstance;
+
+            glowing = false;
+
+            dissolving = true;
+        });
+    }
+
+    private void OnDestroy()
+    {
+        if (burnedMatInstance)
+            Destroy(burnedMatInstance);
+        if (glowingMat)
+            Destroy(glowingMat);
     }
 }

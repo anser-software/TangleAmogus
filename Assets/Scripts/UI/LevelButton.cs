@@ -9,13 +9,46 @@ public class LevelButton : MonoBehaviour
     [SerializeField]
     private int levelIndex;
 
-    private void LoadLevel()
+    [SerializeField]
+    private Sprite fixedDeviceSprite;
+
+    [SerializeField]
+    private Material fixedMat;
+
+    private Animator animator;
+
+    private SpriteRenderer spriteRenderer;
+
+    private void Start()
     {
-        LevelManager.instance.LoadLevel(levelIndex);
+        animator = GetComponent<Animator>();
+
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        if(LevelManager.instance.IsLevelCompleted(levelIndex))
+        {
+            if(animator != null)
+                animator.enabled = false;
+
+            spriteRenderer.sprite = fixedDeviceSprite;
+
+            spriteRenderer.sharedMaterial = fixedMat;
+        } else if(LevelManager.instance.lastCompletedLevelIndex != levelIndex - 1)
+        {
+            spriteRenderer.sharedMaterial = fixedMat;
+        }
+    }
+
+    private void SelectLevel()
+    {
+        if (LevelManager.instance.lastCompletedLevelIndex == levelIndex - 1)
+        {
+            MainMenuUI.instance.OpenFixWindow(levelIndex);
+        }
     }
 
     public void OnMouseUpAsButton()
     {
-        LoadLevel();
+        SelectLevel();
     }
 }

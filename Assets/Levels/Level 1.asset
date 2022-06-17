@@ -12,6 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1912eaea66d9b2b4ca43f0021d889c1d, type: 3}
   m_Name: Level 1
   m_EditorClassIdentifier: 
-  sceneBuildIndex: 1
+  stagesSceneIndexes: 01000000
   maxMoves: 2
-  movesFor3Stars: 1

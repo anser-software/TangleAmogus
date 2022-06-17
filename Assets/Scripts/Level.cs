@@ -6,7 +6,8 @@ using UnityEngine;
 public class Level : ScriptableObject
 {
 
-    public int sceneBuildIndex, 
-        maxMoves, movesLeftFor3Stars;
+    public int[] stagesSceneIndexes;
+
+    public int maxMoves;//, movesLeftFor3Stars;
 
 }

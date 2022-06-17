@@ -1,0 +1,2820 @@
+fileFormatVersion: 2
+guid: 3f683c1d9af2e87408b22537c58ec91e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6252466481705485231
+    second: Console2Broken2_0
+  - first:
+      213: -5243691057548097714
+    second: Console2Broken2_1
+  - first:
+      213: -7536555350907269935
+    second: Console2Broken2_2
+  - first:
+      213: -959248642467555376
+    second: Console2Broken2_3
+  - first:
+      213: 7504892321317354758
+    second: Console2Broken2_4
+  - first:
+      213: -2446313700547439604
+    second: Console2Broken2_5
+  - first:
+      213: -2447961907472688842
+    second: Console2Broken2_6
+  - first:
+      213: -8215576688476578404
+    second: Console2Broken2_7
+  - first:
+      213: 1062266334391560193
+    second: Console2Broken2_8
+  - first:
+      213: -5455994169653723647
+    second: Console2Broken2_9
+  - first:
+      213: -6352585743186917432
+    second: Console2Broken2_10
+  - first:
+      213: -8170544109939810666
+    second: Console2Broken2_11
+  - first:
+      213: 5202883957219508041
+    second: Console2Broken2_12
+  - first:
+      213: 745449544502813650
+    second: Console2Broken2_13
+  - first:
+      213: -49018127361392249
+    second: Console2Broken2_15
+  - first:
+      213: -6487638300088325599
+    second: Console2Broken2_16
+  - first:
+      213: -6734162766505703505
+    second: Console2Broken2_17
+  - first:
+      213: 8453727433851358285
+    second: Console2Broken2_18
+  - first:
+      213: -7378371331671620444
+    second: Console2Broken2_19
+  - first:
+      213: 7238889273461373374
+    second: Console2Broken2_20
+  - first:
+      213: 1795402027123961236
+    second: Console2Broken2_21
+  - first:
+      213: -1086935519004006368
+    second: Console2Broken2_22
+  - first:
+      213: 4628728041429866490
+    second: Console2Broken2_23
+  - first:
+      213: -5131163333476330953
+    second: Console2Broken2_24
+  - first:
+      213: 3450244642340102322
+    second: Console2Broken2_25
+  - first:
+      213: -593563300363296515
+    second: Console2Broken2_26
+  - first:
+      213: 3490945394928467489
+    second: Console2Broken2_27
+  - first:
+      213: -2294022253203836863
+    second: Console2Broken2_28
+  - first:
+      213: -6938773811506966692
+    second: Console2Broken2_30
+  - first:
+      213: -5113893968668980315
+    second: Console2Broken2_31
+  - first:
+      213: -4415913873273108673
+    second: Console2Broken2_32
+  - first:
+      213: -7367545945159548047
+    second: Console2Broken2_33
+  - first:
+      213: 8592304890469174637
+    second: Console2Broken2_34
+  - first:
+      213: -2942127383925868472
+    second: Console2Broken2_35
+  - first:
+      213: 2134011162406063991
+    second: Console2Broken2_36
+  - first:
+      213: -7495629917803797710
+    second: Console2Broken2_37
+  - first:
+      213: -5802635606451033460
+    second: Console2Broken2_38
+  - first:
+      213: 3604383741443061021
+    second: Console2Broken2_39
+  - first:
+      213: 3315940217015981720
+    second: Console2Broken2_40
+  - first:
+      213: -1392788016101186404
+    second: Console2Broken2_41
+  - first:
+      213: -355514767581926029
+    second: Console2Broken2_42
+  - first:
+      213: 8744631544515657408
+    second: Console2Broken2_43
+  - first:
+      213: -8977116606907461492
+    second: Console2Broken2_45
+  - first:
+      213: -3105198125413459357
+    second: Console2Broken2_46
+  - first:
+      213: -5603789240138355952
+    second: Console2Broken2_47
+  - first:
+      213: -3396268349133401899
+    second: Console2Broken2_48
+  - first:
+      213: -1430063222085897994
+    second: Console2Broken2_49
+  - first:
+      213: 602003540186047960
+    second: Console2Broken2_50
+  - first:
+      213: -7155250528961445177
+    second: Console2Broken2_51
+  - first:
+      213: 386204708839916593
+    second: Console2Broken2_52
+  - first:
+      213: 6449607919503234395
+    second: Console2Broken2_53
+  - first:
+      213: 2607387784376220256
+    second: Console2Broken2_54
+  - first:
+      213: -6938310262183277454
+    second: Console2Broken2_55
+  - first:
+      213: -78110269845751215
+    second: Console2Broken2_56
+  - first:
+      213: -6384828852169982830
+    second: Console2Broken2_57
+  - first:
+      213: -460797983806639348
+    second: Console2Broken2_58
+  - first:
+      213: 9007067062070792236
+    second: Console2Broken2_60
+  - first:
+      213: -6936369718050319864
+    second: Console2Broken2_61
+  - first:
+      213: 4794909340963572612
+    second: Console2Broken2_62
+  - first:
+      213: 5250005634666415090
+    second: Console2Broken2_63
+  - first:
+      213: 6196789070746580108
+    second: Console2Broken2_64
+  - first:
+      213: -6034206647503173711
+    second: Console2Broken2_65
+  - first:
+      213: -250850285885813403
+    second: Console2Broken2_66
+  - first:
+      213: 7751226458212865981
+    second: Console2Broken2_67
+  - first:
+      213: -7640258185931719317
+    second: Console2Broken2_68
+  - first:
+      213: 6545985398432291450
+    second: Console2Broken2_69
+  - first:
+      213: 2510244263675511219
+    second: Console2Broken2_70
+  - first:
+      213: -9190312356108669396
+    second: Console2Broken2_71
+  - first:
+      213: -2185383830053335922
+    second: Console2Broken2_72
+  - first:
+      213: 1863313832467753859
+    second: Console2Broken2_73
+  - first:
+      213: -8249439211148195063
+    second: Console2Broken2_75
+  - first:
+      213: -12124205236122617
+    second: Console2Broken2_76
+  - first:
+      213: -5794046841849178218
+    second: Console2Broken2_77
+  - first:
+      213: -6430931904832695659
+    second: Console2Broken2_78
+  - first:
+      213: -3997799350915787256
+    second: Console2Broken2_79
+  - first:
+      213: -4459333293442120742
+    second: Console2Broken2_80
+  - first:
+      213: -164837889699262155
+    second: Console2Broken2_81
+  - first:
+      213: -3536349447463795000
+    second: Console2Broken2_82
+  - first:
+      213: 1052637818571308658
+    second: Console2Broken2_83
+  - first:
+      213: 5316269996261993415
+    second: Console2Broken2_84
+  - first:
+      213: 2993057686846852462
+    second: Console2Broken2_85
+  - first:
+      213: 3650440606679856207
+    second: Console2Broken2_86
+  - first:
+      213: 4094310369660595158
+    second: Console2Broken2_87
+  - first:
+      213: -6595653115997422490
+    second: Console2Broken2_88
+  - first:
+      213: 2319048601158051991
+    second: Console2Broken2_90
+  - first:
+      213: -7512513892964691415
+    second: Console2Broken2_91
+  - first:
+      213: 6991944168130264427
+    second: Console2Broken2_92
+  - first:
+      213: 4388092085105033490
+    second: Console2Broken2_93
+  - first:
+      213: 1727478284466478215
+    second: Console2Broken2_94
+  - first:
+      213: -4236618675205321581
+    second: Console2Broken2_95
+  - first:
+      213: -6547247288915917195
+    second: Console2Broken2_96
+  - first:
+      213: -2774500270390662053
+    second: Console2Broken2_97
+  - first:
+      213: -8972427980296482437
+    second: Console2Broken2_98
+  - first:
+      213: 9072325157321565019
+    second: Console2Broken2_99
+  - first:
+      213: -5378774056394359346
+    second: Console2Broken2_100
+  - first:
+      213: -8821573856714952415
+    second: Console2Broken2_101
+  - first:
+      213: 8181752316321533699
+    second: Console2Broken2_102
+  - first:
+      213: -4071449923422634816
+    second: Console2Broken2_103
+  - first:
+      213: 7274880210840104845
+    second: Console2Broken2_105
+  - first:
+      213: 6035740846928517454
+    second: Console2Broken2_106
+  - first:
+      213: -8924118498846641573
+    second: Console2Broken2_107
+  - first:
+      213: 8184761102121243655
+    second: Console2Broken2_108
+  - first:
+      213: -5453707776350967613
+    second: Console2Broken2_109
+  - first:
+      213: 1215086918503954700
+    second: Console2Broken2_110
+  - first:
+      213: 65121449385052325
+    second: Console2Broken2_111
+  - first:
+      213: 1542775251861037868
+    second: Console2Broken2_112
+  - first:
+      213: -3388085190739501906
+    second: Console2Broken2_113
+  - first:
+      213: -4512309862301907144
+    second: Console2Broken2_114
+  - first:
+      213: -2469640206258734874
+    second: Console2Broken2_115
+  - first:
+      213: -4831005809910820490
+    second: Console2Broken2_116
+  - first:
+      213: 7020664260093390762
+    second: Console2Broken2_117
+  - first:
+      213: -1263061601144531281
+    second: Console2Broken2_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Console2Broken2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c78e3acd6ca39a0800000000000000
+      internalID: -6252466481705485231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4704f2f3caaa37b0800000000000000
+      internalID: -5243691057548097714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc4a17b6d6c86790800000000000000
+      internalID: -7536555350907269935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d71276217010b2f0800000000000000
+      internalID: -959248642467555376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d7da9bdcbb62860800000000000000
+      internalID: 7504892321317354758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_5
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d2b586a2fc0ed0800000000000000
+      internalID: -2446313700547439604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_6
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63917617d97170ed0800000000000000
+      internalID: -2447961907472688842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_7
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d9f52a7886cfd80800000000000000
+      internalID: -8215576688476578404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_8
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e34e5a9dedbe00800000000000000
+      internalID: 1062266334391560193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_9
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eff25b53a6844b0800000000000000
+      internalID: -5455994169653723647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_10
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7022c8ce417d7a0800000000000000
+      internalID: -6352585743186917432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_11
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e9061eb656c9e80800000000000000
+      internalID: -8170544109939810666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_12
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb5ad946b543840800000000000000
+      internalID: 5202883957219508041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_13
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1491
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32112496e585a00800000000000000
+      internalID: 745449544502813650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781c11bd54ad15ff0800000000000000
+      internalID: -49018127361392249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a240cc65747f5a0800000000000000
+      internalID: -6487638300088325599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa704ca94a27b82a0800000000000000
+      internalID: -6734162766505703505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_18
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c4fa2bf4ca15570800000000000000
+      internalID: 8453727433851358285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_19
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a489cabd52ca9990800000000000000
+      internalID: -7378371331671620444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_20
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9fc01e073b57460800000000000000
+      internalID: 7238889273461373374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d6db791ac8ae810800000000000000
+      internalID: 1795402027123961236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_22
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028e20087ed6ae0f0800000000000000
+      internalID: -1086935519004006368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_23
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7115f21ab8c3040800000000000000
+      internalID: 4628728041429866490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_24
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73252af52227ac8b0800000000000000
+      internalID: -5131163333476330953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_25
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b060e6d83bb1ef20800000000000000
+      internalID: 3450244642340102322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_26
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0232ab25d33c7f0800000000000000
+      internalID: -593563300363296515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_27
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e3ff24754527030800000000000000
+      internalID: 3490945394928467489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_28
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1278
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140b1fa3aeef920e0800000000000000
+      internalID: -2294022253203836863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f085c4bf584bf90800000000000000
+      internalID: -6938773811506966692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_31
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab0972b78cc709b0800000000000000
+      internalID: -5113893968668980315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3746d09ab587b2c0800000000000000
+      internalID: -4415913873273108673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17345607ff731c990800000000000000
+      internalID: -7367545945159548047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d444e16cffd3770800000000000000
+      internalID: 8592304890469174637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_35
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848362d7bb67b27d0800000000000000
+      internalID: -2942127383925868472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_36
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f8ee188d78d9d10800000000000000
+      internalID: 2134011162406063991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_37
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a385ad4c2af790800000000000000
+      internalID: -7495629917803797710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_38
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ae37cd8a5e87fa0800000000000000
+      internalID: -5802635606451033460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_39
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1538ee7ae7550230800000000000000
+      internalID: 3604383741443061021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_40
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8965bab0f06940e20800000000000000
+      internalID: 3315940217015981720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_41
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942edcbda2dbace0800000000000000
+      internalID: -1392788016101186404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_42
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dafd5d335f01bf0800000000000000
+      internalID: -355514767581926029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_43
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1065
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef7860f0c2b5970800000000000000
+      internalID: 8744631544515657408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8055024200ea6380800000000000000
+      internalID: -8977116606907461492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9589c1ce18e4d0800000000000000
+      internalID: -3105198125413459357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_47
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ba56150675b32b0800000000000000
+      internalID: -5603789240138355952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_48
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d050004ee70ed0d0800000000000000
+      internalID: -3396268349133401899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_49
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f038398315672ce0800000000000000
+      internalID: -1430063222085897994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_50
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5215eb70fba5800800000000000000
+      internalID: 602003540186047960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_51
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2c356dd8173bc90800000000000000
+      internalID: -7155250528961445177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_52
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348cf0f2231c5500800000000000000
+      internalID: 386204708839916593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_53
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5559863b3c918950800000000000000
+      internalID: 6449607919503234395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_54
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06aff67106d4f2420800000000000000
+      internalID: 2607387784376220256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_55
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c4e19c39b26bf90800000000000000
+      internalID: -6938310262183277454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_56
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ab8889f1f7aeef0800000000000000
+      internalID: -78110269845751215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_57
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c3ebabcf78467a0800000000000000
+      internalID: -6384828852169982830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_58
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 852
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c033df5dcaaea99f0800000000000000
+      internalID: -460797983806639348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20d9de75c78ffc70800000000000000
+      internalID: 9007067062070792236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_61
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80295dced701dbf90800000000000000
+      internalID: -6936369718050319864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b065e14a0fa8240800000000000000
+      internalID: 4794909340963572612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_63
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3471b1f44cbd840800000000000000
+      internalID: 5250005634666415090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_64
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c847fdde3da6ff550800000000000000
+      internalID: 6196789070746580108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_65
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c5425601324ca0800000000000000
+      internalID: -6034206647503173711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_66
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d88f97efcc48cf0800000000000000
+      internalID: -250850285885813403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_67
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7136f5563e19b60800000000000000
+      internalID: 7751226458212865981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_68
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df443e8a958f590800000000000000
+      internalID: -7640258185931719317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_69
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a537aa90308da50800000000000000
+      internalID: 6545985398432291450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_70
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b147d3abdd26d220800000000000000
+      internalID: 2510244263675511219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_71
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e624fba93757080800000000000000
+      internalID: -9190312356108669396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_72
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cc9c73cf4fba1e0800000000000000
+      internalID: -2185383830053335922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_73
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 639
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bef41fe02dbd910800000000000000
+      internalID: 1863313832467753859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b455faeba148d80800000000000000
+      internalID: -8249439211148195063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_76
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c87bd791de4dff0800000000000000
+      internalID: -12124205236122617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_77
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6971b937819679fa0800000000000000
+      internalID: -5794046841849178218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_78
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59298bd418db0c6a0800000000000000
+      internalID: -6430931904832695659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_79
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806906deba6f488c0800000000000000
+      internalID: -3997799350915787256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_80
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34f450ff34d12c0800000000000000
+      internalID: -4459333293442120742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_81
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53153fa00d066bdf0800000000000000
+      internalID: -164837889699262155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_82
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68546f9ec5ceec0800000000000000
+      internalID: -3536349447463795000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_83
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eb515d488bb9e00800000000000000
+      internalID: 1052637818571308658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_84
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6341156f27c940800000000000000
+      internalID: 5316269996261993415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_85
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d42c8bb1a798920800000000000000
+      internalID: 2993057686846852462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_86
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4470d21468f8a230800000000000000
+      internalID: 3650440606679856207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_87
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db61dfa699e1d830800000000000000
+      internalID: 4094310369660595158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_88
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 426
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c764faf688774a0800000000000000
+      internalID: -6595653115997422490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79864e87a6aee2020800000000000000
+      internalID: 2319048601158051991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_91
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92217a7da603eb790800000000000000
+      internalID: -7512513892964691415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_92
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6db4ce0d20680160800000000000000
+      internalID: 6991944168130264427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_93
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21183669082a5ec30800000000000000
+      internalID: 4388092085105033490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_94
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c53ded85c39f710800000000000000
+      internalID: 1727478284466478215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_95
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cc99fe2c18435c0800000000000000
+      internalID: -4236618675205321581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_96
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576078f87418325a0800000000000000
+      internalID: -6547247288915917195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_97
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca32a34befe79d0800000000000000
+      internalID: -2774500270390662053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_98
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7117a53a488b7380800000000000000
+      internalID: -8972427980296482437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_99
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53edf0d9af57ed70800000000000000
+      internalID: 9072325157321565019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_100
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdf6816e71ca55b0800000000000000
+      internalID: -5378774056394359346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_101
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121f1a6e059739580800000000000000
+      internalID: -8821573856714952415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_102
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f0396026c6b8170800000000000000
+      internalID: 8181752316321533699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_103
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 213
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc3a99bddd4f77c0800000000000000
+      internalID: -4071449923422634816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fa4aef10195f460800000000000000
+      internalID: 7274880210840104845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_106
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e495d71525243c350800000000000000
+      internalID: 6035740846928517454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_107
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52f0ced189272480800000000000000
+      internalID: -8924118498846641573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_108
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7041f5f8bdc169170800000000000000
+      internalID: 8184761102121243655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_109
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8a0d12ca98054b0800000000000000
+      internalID: -5453707776350967613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_110
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09f6a45d1bdcd010800000000000000
+      internalID: 1215086918503954700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_111
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8cad9fc9b57e000800000000000000
+      internalID: 65121449385052325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_112
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23e077eae9096510800000000000000
+      internalID: 1542775251861037868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_113
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacd539487a1bf0d0800000000000000
+      internalID: -3388085190739501906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_114
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c005661e0161c0800000000000000
+      internalID: -4512309862301907144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_115
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8fcee21531abdd0800000000000000
+      internalID: -2469640206258734874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_116
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671da68cfc1d4fcb0800000000000000
+      internalID: -4831005809910820490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_117
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafa52e82f86e6160800000000000000
+      internalID: 7020664260093390762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Console2Broken2_118
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 0
+        width: 119
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6185e6a24b87ee0800000000000000
+      internalID: -1263061601144531281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0d33e9dcbfddc943bcfd6e9af92296a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
